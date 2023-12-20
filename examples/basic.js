@@ -75,7 +75,8 @@ console.log("Sending payload", payload);
  *         "event": {
  *             "message": {
  *                 "temperature": "70F",
- *                 "chickenCount": 500
+ *                 "chickenCount": 500,
+                    "layers":300
  *             },
  *             "severity": "info"
  *         }
